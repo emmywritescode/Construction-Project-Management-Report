@@ -38,6 +38,13 @@ Analysis of the construction project management tasks revealed the following:
 - The reason most tasks were created was due to 'Housekeeping'. This indicates a high level of safety awareness.
 - Priority for most tasks were itemized as 'Behavioral Failure'. This means that these tasks, if not handled effectively, could negatively impact project outcomes.
 
+![](construction.jpg)
+
+Interact with the full report on the Power BI Service [here]()
+
+## Conclusion & Recommendations
+While there was a high level of safety awareness on these projects,  the task resolution time can be improved upon. For design tasks averaging 48 days, efforts should be made to cut this down by half by delegating effectively and leveraging technology for automation. Effective project management would ensure minimal resolution time, thereby saving operational costs.
+
 
 
 
