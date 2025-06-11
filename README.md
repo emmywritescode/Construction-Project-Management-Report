@@ -40,7 +40,7 @@ Analysis of the construction project management tasks revealed the following:
 
 ![](construction.jpg)
 
-Interact with the full report on the Power BI Service [here]()
+Interact with the full report on the Power BI Service [here](https://app.powerbi.com/reportEmbed?reportId=5de41248-17ec-4397-ae55-b120a9046683&autoAuth=true&ctid=d879d9a4-6f81-4585-babc-c88fc30fe77b)
 
 ## Conclusion & Recommendations
 While there was a high level of safety awareness on these projects, the task resolution time can be improved upon. For design tasks averaging 48 days, efforts should be made to cut this down by half by delegating effectively and leveraging technology for automation. Effective project management would ensure minimal resolution time, thereby saving operational costs.
