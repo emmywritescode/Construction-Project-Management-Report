@@ -27,7 +27,7 @@ Thirdly, it was observed from the 'Type' column that the tasks with null entries
 
 Additionally, columns like 'Target', 'Association', 'Cause', Task Group, 'Images', 'Commits', and 'Documents' with vast amount of missing or null entries were replaced with their most assigned or modal values respectively, as observed on individual columns. This is because there was no indication as to the likely values that could replace the missing data.
 
-Lastly, an additional column, 'Days Taken to Complete Task' was created. This simply is a mathematical subtraction of the two date columns: Created and Status Changed.
+Lastly, an additional column, 'Days Taken to Complete Task' was created. This simply is a mathematical subtraction of the two date columns: 'Created' and 'Status Changed'. There were no duplicate rows in the data set after checks.
 
 ## Analysis and Visualization
 Analysis of the construction project management tasks revealed the following:
@@ -43,7 +43,7 @@ Analysis of the construction project management tasks revealed the following:
 Interact with the full report on the Power BI Service [here]()
 
 ## Conclusion & Recommendations
-While there was a high level of safety awareness on these projects,  the task resolution time can be improved upon. For design tasks averaging 48 days, efforts should be made to cut this down by half by delegating effectively and leveraging technology for automation. Effective project management would ensure minimal resolution time, thereby saving operational costs.
+While there was a high level of safety awareness on these projects, the task resolution time can be improved upon. For design tasks averaging 48 days, efforts should be made to cut this down by half by delegating effectively and leveraging technology for automation. Effective project management would ensure minimal resolution time, thereby saving operational costs.
 
 
 
