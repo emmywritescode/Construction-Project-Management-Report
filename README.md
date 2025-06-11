@@ -1,7 +1,7 @@
 # A Construction Project Management Report
 ![](image.jpg)
 ## Introduction
-This is a Power BI project on a simple data set from a number of construction sites generated from project management field apps that are used for quality, safety and site management. The data analyzed here is depicted as "Tasks" - is an action item typically used for quality snags/defects or safety issues. The goal of the project is to understand how improvements in efficiency, cost savings, safety, etc  can be made in the building construction management process, leveraging the huge amounts of data generated.
+This is a Power BI project on a simple data set from a number of construction sites generated from project management field apps that are used for quality, safety and site management. The data analyzed here, depicted as "Tasks" - is an action item typically used for quality snags/defects or safety issues. The goal of the project is to understand how improvements in efficiency, cost savings, safety, etc  can be made in the building construction management process, leveraging the huge amounts of data generated.
 ## Problem statement
 The Project Manager wants to understand the tasks peculiarities of the 8 projects currently being managed. Among what he wants to determine are:
 - Task group associated with the majority of tasks.
@@ -32,11 +32,11 @@ Lastly, an additional column, 'Days Taken to Complete Task' was created. This si
 ## Analysis and Visualization
 Analysis of the construction project management tasks revealed the following:
 - Most of the itemized tasks were safety related. This is expected due to the changing nature of construction sites, safety must be prioritized.
-- The Main Contractor was needed to action majority of the tasks. As the Main Contractor is in charge of the construction site, this is expected.
+- The Main Contractor was needed to action majority of the tasks. As the Main Contractor is in charge of the construction site, this is also expected.
 - The average time taken for a task status to change was 11 days.
 - While the average time taken for a task to be completely resolved was 12 days, tasks associated with the Design Team took 48 days to be resolved. This is common with design tasks but it can be improved.
 - The reason most tasks were created was due to 'Housekeeping'. This indicates a high level of safety awareness.
-- Priority for most tasks were itemized as 'Behavioral Failure'. This means that these tasks, if not handled effectively, could negatively impact project outcomes.
+- Priority for most tasks were itemized as 'Behavioral Failure'. This means these tasks, if not handled effectively, could negatively impact project outcomes.
 
 ![](construction.jpg)
 
